@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE Game</h1> 
 <h3>Name:M.PRANATHI</h3>
-<h3>Register Number: 212222244064</h3>
+<h3>Register Number: 212222240064</h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE Game
